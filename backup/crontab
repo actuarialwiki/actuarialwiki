@@ -1,0 +1,7 @@
+# Template to setup crontab.
+
+SSH_AUTH_SOCK=
+XWIKI_SERVER_ADDRESS=
+XWIKI_SERVER_USER=
+XWIKI_BACKUP_PATH=
+0 23 * * *
